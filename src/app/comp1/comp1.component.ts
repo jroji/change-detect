@@ -8,6 +8,6 @@ import { Component, ChangeDetectionStrategy } from '@angular/core';
 })
 export class Comp1Component {
  public check() {
-  console.log('componente 1');
+  console.log('componente 8');
  }
 }
